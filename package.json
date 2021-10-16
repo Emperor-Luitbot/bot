@@ -1,0 +1,27 @@
+{
+  "name": "emperor_luitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanchma/emperor_luitbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanchma/emperor_luitbot/issues"
+  },
+  "homepage": "https://github.com/blanchma/emperor_luitbot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
